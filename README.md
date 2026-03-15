@@ -1,19 +1,16 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A00FF,100:FF00FF&height=260&section=header&text=Lão%20Già&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Lão%20Già&fontSize=90&animation=twinkling&fontAlignY=40&desc=Crypto%20•%20DeFi%20•%20Cipher%20Explorer&descAlignY=65&descSize=25"/>
 
 # 🦋 <span style="color:#FFD700">༘༘ Lão Già 🦋 ༘</span>
 
-### <span style="color:#00F7FF">Crypto • DeFi • Cipher Explorer</span>
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&size=30&width=850&lines=Blockchain+Explorer;DeFi+Researcher;Cipher+Learner;Future+Web3+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=850&size=35&duration=3000&pause=1000&lines=🌈+Blockchain+Explorer;🚀+DeFi+Researcher;🔐+Cipher+Learner;🌍+Future+Web3+Builder"/>
 
 </div>
 
 ---
 
-## 👤 <span style="color:#FF00FF">About Me</span>
+# 👤 <span style="color:#FF6B6B">About Me</span>
 
 | | |
 |---|---|
@@ -25,7 +22,7 @@
 
 ---
 
-## ⚙️ <span style="color:#00F7FF">Tech & Interests</span>
+# ⚙️ <span style="color:#00F7FF">Tech & Interests</span>
 
 <p align="center">
 
@@ -38,7 +35,7 @@
 
 ---
 
-## 📊 <span style="color:#FFD700">GitHub Stats</span>
+# 📊 <span style="color:#FFD700">GitHub Stats</span>
 
 <p align="center">
 
@@ -50,7 +47,7 @@
 
 ---
 
-## 🔥 <span style="color:#00FF9C">GitHub Activity</span>
+# 🔥 <span style="color:#00FF9C">GitHub Activity</span>
 
 <p align="center">
 
@@ -60,7 +57,7 @@
 
 ---
 
-## 🐍 <span style="color:#FF6B6B">Contribution Snake</span>
+# 🐍 <span style="color:#FF00FF">Contribution Snake</span>
 
 <p align="center">
 
@@ -70,17 +67,17 @@
 
 ---
 
-## 🌐 <span style="color:#9D4EDD">Connect</span>
+# 🌐 <span style="color:#9D4EDD">Connect</span>
 
-**GitHub**  
+GitHub  
 https://github.com/Giangho1138
 
 ---
 
 <div align="center">
 
-## ⭐ <span style="color:#00F7FF">Exploring the Future of On-chain Finance</span>
+⭐ <span style="color:#00F7FF">Exploring the Future of On-chain Finance</span>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:6A00FF,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
