@@ -1,39 +1,44 @@
+
 <div align="center">
 
-# 🧠 LÃO GIÀ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:6A00FF,100:FF00FF&height=260&section=header&text=Lão%20Già&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-### Crypto • DeFi • Cipher Explorer
+# 🦋 <span style="color:#FFD700">༘༘ Lão Già 🦋 ༘</span>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Blockchain+Explorer;DeFi+Researcher;Cipher+Learner;Future+Builder" />
+### <span style="color:#00F7FF">Crypto • DeFi • Cipher Explorer</span>
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&size=30&width=850&lines=Blockchain+Explorer;DeFi+Researcher;Cipher+Learner;Future+Web3+Builder"/>
 
 </div>
 
 ---
 
-## 👤 About Me
+## 👤 <span style="color:#FF00FF">About Me</span>
 
 | | |
 |---|---|
 | 👤 Name | **Lão Già** |
-| 🌏 Location | Vietnam |
-| 🔐 Focus | Crypto • Blockchain • Cipher |
-| 🚀 Interest | DeFi, On-chain Finance |
-| 📚 Learning | Smart Contract & Security |
+| 🌏 Location | **Vietnam** |
+| 🔐 Focus | **Crypto • Blockchain • Cipher** |
+| 🚀 Interest | **DeFi • On-chain Finance** |
+| 📚 Learning | **Smart Contract • Security** |
 
 ---
 
-## ⚙️ Tech & Interests
+## ⚙️ <span style="color:#00F7FF">Tech & Interests</span>
 
-<p>
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeFi-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Crypto-000000?style=for-the-badge&logo=bitcoin&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackaday&logoColor=green"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/DeFi-black?style=for-the-badge&logo=ethereum&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Crypto-black?style=for-the-badge&logo=bitcoin&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Security-black?style=for-the-badge&logo=hackaday&logoColor=green"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 <span style="color:#FFD700">GitHub Stats</span>
 
 <p align="center">
 
@@ -45,31 +50,37 @@
 
 ---
 
-## 🔥 GitHub Activity
+## 🔥 <span style="color:#00FF9C">GitHub Activity</span>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giangho1138&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 <span style="color:#FF6B6B">Contribution Snake</span>
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 <span style="color:#9D4EDD">Connect</span>
 
-GitHub  
+**GitHub**  
 https://github.com/Giangho1138
 
 ---
 
 <div align="center">
 
-⭐ *Exploring the future of On-chain Finance*
+## ⭐ <span style="color:#00F7FF">Exploring the Future of On-chain Finance</span>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:6A00FF,100:00F7FF&height=120&section=footer"/>
